@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 工具运行产生的输出目录
+旋转后/
+
+# IDE / 编辑器
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
